@@ -1,0 +1,15 @@
+.gk img{
+    width:50%;
+
+}
+.gk{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.boredbtn button{
+    display: block;
+    margin: auto;
+}
