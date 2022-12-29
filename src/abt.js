@@ -9,7 +9,7 @@ function abt(){
          </div>
          <div className='interests'>
 <h1>Interests</h1>
-<p>I am a Caffeine Addicted Developer and Problem Solver, I have made some basic websites using HTML/CSS/JavaScript and solved about 350+ problem of DataStructures in C/C++ </p>
+<p>I am a Caffeine Addicted Developer and Problem Solver, I have made some basic websites using HTML/CSS/JavaScript and ReactJS and solved about 350+ problem of DataStructures in C/C++ </p>
          </div>
 
      </div>
